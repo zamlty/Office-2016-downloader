@@ -1,4 +1,4 @@
-﻿$url = 'http://officecdn.microsoft.com/pr/5440FD1F-7ECB-4221-8110-145EFAA6372F/Office/Data'
+$url = 'http://officecdn.microsoft.com/pr/5440FD1F-7ECB-4221-8110-145EFAA6372F/Office/Data'
 
 # Office 2016 Builds
 # 64256AFE-F5D9-4F86-8936-8840A6A4F5BE    Deferred Channel, RTM
